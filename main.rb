@@ -28,4 +28,8 @@ elsif user_input =='W'
   puts "you withdrew $#{amount}, take the cash"
   else 
   puts "your balance is #{balance}"
+   "Thanks for using the coder bank"
+  
+  
+  
 end 
